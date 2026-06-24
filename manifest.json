@@ -1,0 +1,19 @@
+{
+  "name": "PMX SABER Regulatory Dashboard",
+  "organization": "PMX",
+  "description": "SABER Import Permit Monitoring Dashboard (HTML/CSS UI)",
+  "logoUrl": "https://your-domain.com/logo.png",
+  "supportUrl": "https://your-domain.com/support",
+  "devMode": true,
+
+  "components": [
+    {
+      "id": "pmx_saber_dashboard",
+      "name": "SABER Dashboard UI",
+      "resource": {
+        "js": ["index.js"],
+        "css": ["style.css"]
+      }
+    }
+  ]
+}
